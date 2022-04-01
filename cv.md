@@ -16,3 +16,15 @@ e-mail: pavelfurs1983@gmail.com
 3.Git, GitHub<br>
 4.VS Code<br>
 5.React
+### Code example:
+```javascript
+let arr = [1,2,3,4,5,6]
+let result = arr.map((value)=>{
+      return value * 2 
+})
+```
+### Courses:
+computer academy step
+### Languages:
+English Pre-Intermediate <br>
+Russian - Native
