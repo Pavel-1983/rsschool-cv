@@ -21,10 +21,11 @@ e-mail: pavelfurs1983@gmail.com
 let arr = [1,2,3,4,5,6]
 let result = arr.map((value)=>{
       return value * 2 
-})
+});
+
 ```
 ### Courses:
-computer academy step
+'Computer academy Step'
 ### Languages:
 English Pre-Intermediate <br>
 Russian - Native
